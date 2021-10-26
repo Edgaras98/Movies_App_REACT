@@ -1,4 +1,6 @@
 import React from "react";
+import "./Movie.css";
+
 //API from TMDB
 const IMG_URL = "https://image.tmdb.org/t/p/w1280";
 
